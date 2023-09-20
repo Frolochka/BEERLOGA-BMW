@@ -1,0 +1,54 @@
+
+h1{
+color: red;
+
+
+
+}
+h1 {text-align: center;}
+
+h2 {
+    color: white;
+    text-align: left;
+}
+
+
+
+h3 {
+color: blue;
+
+
+
+}
+p {
+    color: white;
+}
+
+.bmwe{
+width: 100%;
+bottom: 0;
+position: fixed;
+top: -150px;
+left: 0;
+z-index: -1;
+
+
+background-image: url("https://carsdb.ru/super/cars/m5_competition_f90-473/photo.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+.bmw-m5{
+color: white;
+text-decoration: none;
+padding: 10px 20px;
+transition: 5s;
+
+
+
+
+
+
+
+}
